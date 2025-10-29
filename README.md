@@ -440,3 +440,95 @@ Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do si
       <td>★★★★☆</td>
     </tr>
   </table>
+
+# 
+
+<img width="1584" height="396" alt="Portfólio" src="https://github.com/user-attachments/assets/0147b2d3-d5e6-4200-9a7f-c47bec189017" />
+
+
+### 5º Semestre - 2024
+### <p align="justify">Parceiro Acadêmico: <a href="https://pro4tech.com.br">Pro4tech</a></p>
+### <p align="justify">Repositório: <a href="[COLE O LINK DO REPOSITÓRIO PRINCIPAL AQUI]">API 5</a></p>
+
+### Desafio
+O desafio apresentado pela empresa Pro4tech consiste em aprimorar a eficiência e eficácia no processo de recrutamento e seleção, buscando otimizar a coleta, visualização e análise dos dados. A principal dificuldade está na fragmentação dessas informações, que precisam ser centralizadas para facilitar decisões estratégicas, melhorar a alocação de recursos e alinhar as estratégias de contratação aos objetivos organizacionais.
+
+### Tecnologias utilizadas
+- Front end: React Native
+- Back end: Go
+
+### Contribuições pessoais
+
+Desempenhei o papel de Product Owner (PO), sendo a ponte principal de comunicação com o cliente (Pro4tech) para alinhamento de requisitos e validação de entregas. Fui responsável pela criação e gerenciamento das tasks do time, pela concepção da identidade visual, prototipação no Figma e pela documentação do projeto.
+
+- Gestão de Produto (Product Owner)
+  <details>
+    <ul> - Definição e priorização do backlog do produto. </ul>
+    <ul> - Criação e gerenciamento das tasks da equipe para as Sprints. </ul>
+    <ul> - Ponto focal para comunicação com o cliente (Pro4tech) e validação das entregas. </ul>
+  </details>
+- Design e Identidade Visual
+  <details>
+    <ul> - Criação da identidade visual do grupo (logo, paleta de cores). </ul>
+    <ul> - Criação das imagens do read.me do projeto. </ul>
+
+  ![image]([COLE O LINK DA IMAGEM DA IDENTIDADE VISUAL AQUI])
+
+  </details>
+- Criação dos protótipos no FIGMA
+- Criação do Read.me e Documentação
+  <details>
+     Confira as documentações do projeto: <a href="https://github.com/projetoKhali/docs-project.git">Link</a>
+  </details>
+  
+
+### Lições Aprendidas
+
+  <summary><b>Hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Skill</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI Design</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>React Native</td>
+      <td>★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Go</td>
+      <td>★☆☆☆☆</td>
+    </tr>
+  </table>
+
+<summary><b>Soft Skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Skill</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★★☆</td>
+    </tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★☆</td>
+    </tr>
+     <tr>
+      <td>Gestão de Produto (PO)</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
