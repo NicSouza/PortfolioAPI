@@ -532,3 +532,90 @@ Desempenhei o papel de Product Owner (PO), sendo a ponte principal de comunicaç
       <td>★★★★☆</td>
     </tr>
   </table>
+
+#
+
+<img width="1584" height="396" alt="Portfólio api6" src="https://github.com/user-attachments/assets/a7f9f0c5-8167-4a67-a0db-de053d0e1e13" />
+
+
+### 6º Semestre - 2024
+### <p align="justify">Parceiro Acadêmico: <a href="https://www.kersys.com.br/">Kersys</a></p>
+### <p align="justify">Repositório: <a href="https://github.com/projetoKhali/api6">API 6</a></p>
+
+### Desafio
+O desafio proposto pela empresa Kersys consiste no desenvolvimento de um Sistema Inteligente de Planejamento e Monitoramento de Reflorestamento (SIPMR) para otimizar a recuperação ambiental. O sistema utilizará análise de dados e machine learning para prever padrões de crescimento, sugerir estratégias de plantio e monitorar a evolução das áreas reflorestadas, visando melhorar a eficiência do reflorestamento e facilitar a tomada de decisão.
+
+### Tecnologias utilizadas
+- Front end: React, Typescript;
+- Back end: Python;
+
+### Contribuições pessoais
+
+Desempenhei o papel de Desenvolvedora Front-end, atuando desde a concepção de interface até a implementação lógica. Fui responsável pela criação completa da tela de Login (do design no Figma ao código funcional), pela arquitetura de componentes reutilizáveis e pela integração de serviços e validações de dados, garantindo a robustez da aplicação.
+
+- Interface e UX/UI (Do Design ao Código)
+  <details>
+    <ul> - <b>Tela de Login Completa:</b> Responsável pela criação do layout no Figma e implementação no Front-end, incluindo a lógica dos botões e fluxos de entrada. </ul>
+    <ul> - Desenvolvimento completo da <b>Tela de Previsões</b> (UI e Filtros). </ul>
+    <ul> - Implementação de fluxos de autenticação: verificação de aceitação de termos e logout. </ul>
+
+  </details>
+- Desenvolvimento de Componentes e Arquitetura
+  <details>
+    <ul> - Criação de componentes globais dinâmicos: <b>Table Dynamic</b> e <b>Form Dynamic</b> para reutilização em todo o sistema. </ul>
+    <ul> - Definição de <b>Schemas</b> para validação e tipagem de dados: Usuário, Projeção, Yield e Termos. </ul>
+  </details>
+- Integração e Documentação
+   <details>
+    <ul> - Criação de <b>Services</b> para comunicação com o Back-end: Projeções, Eventos e Integração de Yield. </ul>
+    <ul> - Desenvolvimento e integração da lógica de <b>Termos e Condições</b>. </ul>
+    <ul> - Elaboração do <b>Manual de Utilização</b> e criação do README inicial. </ul>
+   </details>
+  
+
+### Lições Aprendidas
+
+  <summary><b>Hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Skill</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>React & Componentização</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Figma & Prototipagem</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Integração de APIs (Services)</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Validação de Dados (Schemas)</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+
+<summary><b>Soft Skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Skill</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Visão Sistêmica (Design + Dev)</td>
+      <td>★★★★☆</td>
+    </tr>
+      <td>Organização e Prazos</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
