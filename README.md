@@ -171,7 +171,7 @@ A partir do desafio enfrentado pela empresa parceira, 2RP Net, tivemos como obje
 
 ### Contribuições pessoais
 
-Desempenhei o papel de Scrum Master novamente e desenvolvedora front end, criando todo o layout do site e ajudando no desenvolvimento dele no front-end e auxiliando o time com o monitoramento das tasks e as atividades de scrum. Utitiizei o como linguagens o JavaFX e o Scene Builder para o front end. Fiquei responsável pela maioria das telas do projeto e pelo monitoramento da equipe.
+Desempenhei o papel de Scrum Master novamente e desenvolvedora front end, criando todo o layout do site e ajudando no desenvolvimento dele no front-end e auxiliando o time com o monitoramento das tasks e as atividades de scrum. Utilizei o como linguagens o JavaFX e o Scene Builder para o front end. Fiquei responsável pela maioria das telas do projeto e pelo monitoramento da equipe.
 
 - UX/UI Design
   <details>
@@ -301,7 +301,7 @@ A partir do desafio enfrentado pela empresa parceira, 2RP Net, tivemos como obje
 
 ### Contribuições pessoais
 
-Desempenhei o papel de desenvolvedora front end e designer UX, criando todo o layout do site e ajudando no desenvolvimento dele no front-end. Utitiizei o como linguagens o HTML, CSS e JavaScript. Fiquei responsável pela criação das páginas de cadastro de cliente, e com a participação da pessoa responsável pelo backend desta página fizemos a conexão entre o front-end e o back-end.
+Desempenhei o papel de desenvolvedora front end e designer UX, criando todo o layout do site e ajudando no desenvolvimento dele no front-end. Utilizei o como linguagens o HTML, CSS e JavaScript. Fiquei responsável pela criação das páginas de cadastro de cliente, e com a participação da pessoa responsável pelo backend desta página fizemos a conexão entre o front-end e o back-end.
 
 - UX/UI Design
   <details>
@@ -372,7 +372,7 @@ Desempenhei o papel de desenvolvedora front end e designer UX, criando todo o la
       <td>★★★☆☆</td>
     </tr>
     <tr>
-      <td>JavaScritpt</td>
+      <td>JavaScript</td>
       <td>★★☆☆☆</td>
     </tr>
     <tr>
@@ -422,7 +422,7 @@ No quarto semestre, a empresa Oracle nos trouxe o desafio para desenvolver um so
 
 ### Contribuições pessoais
 
-Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do site e ajudando no desenvolvimento dele no front-end. Utitiizei o como linguagens o Vue JS e Typescript. Fiquei responsável pela .
+Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do site e ajudando no desenvolvimento dele no front-end. Utilizei o como linguagens o Vue JS e Typescript. Fiquei responsável pela .
 
 - UX/UI Design
   <details>
@@ -658,7 +658,7 @@ Desempenhei o papel de Desenvolvedora Front-end, atuando desde a concepção de 
 
 - React & Componentização: Com o o desenvolvimento das telas e componentes em REACT desenvolvi minhas habilidades na linguagem, com a criação de vários componentes nós otimizamos tempo reutilizando quando fosse necessário.
 
-- Validação de Dados: Com a implementação do Machine Learning validamos todos os dados apresentados no dashboard prioncipal do projeto, o que me ajudou a evoluir nesta questão junto as previsões feitas.
+- Validação de Dados: Com a implementação do Machine Learning validamos todos os dados apresentados no dashboard principal do projeto, o que me ajudou a evoluir nesta questão junto as previsões feitas.
 
        
     <tr>
@@ -679,7 +679,7 @@ Desempenhei o papel de Desenvolvedora Front-end, atuando desde a concepção de 
       <th width="300px">Classificação</th>
     </tr>
 
-- Trabalho em equipe: Com a equipe reduzida o trabalho em equipe foi muito importante para que entregassemos o que foi proposto.
+- Trabalho em equipe: Com a equipe reduzida o trabalho em equipe foi muito importante para que entregássemos o que foi proposto.
       
     <tr>
       <td>Trabalho em Equipe</td>
